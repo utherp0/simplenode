@@ -1,0 +1,24 @@
+{
+  "name": "simplenode",
+  "version": "0.0.1",
+  "description": "Node.js simple app for OCP",
+  "main": "server.js",
+  "dependencies": {},
+  "engine": {
+    "node": "*",
+    "npm": "*"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/utherp0/simplenode"
+  },
+  "author": "Ian 'Uther' Lawson",
+  "license": "",
+  "bugs": {
+    "url": "http://github.com/utherp0/simplenode/issues"
+  },
+  "homepage": "http://github.com/utherp0/simplenode"
+}
